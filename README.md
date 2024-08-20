@@ -7,6 +7,7 @@ style="width: 980px; height: 400px;"> </div>
 ## Sobre mim 👀
 - 🔭 Desenvolvedora front-end
 - 🌱 Atualmente estudando Angular e PHP
+- 📖 Cursando Sistemas para Internet na Fatec Jahu
 - 🐈 Apaixonada por gatinhos
   <br><br>
 
